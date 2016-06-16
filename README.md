@@ -16,7 +16,7 @@ The app uses the following libraries and frameworks:
 
 ## Demo
 
-You can see the app running live at [http://bluemixpolls.mybluemix.net/](http://bluemixpolls.mybluemix.net/).
+You can see the app running live at [https://obscure-headland-58558.herokuapp.com/](https://obscure-headland-58558.herokuapp.com/).
 
 ## License
 
